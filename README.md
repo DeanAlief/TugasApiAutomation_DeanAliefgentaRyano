@@ -15,4 +15,4 @@ Tugas API AUTOMATION Menggunakan SUPERTEST
 2. Open report that has name `pass_[date]-mochawesome-report.html`
 
 ### Report Screenshot
-![Mochawesome-Report](https://github.com/agusbudbudi/DS_Supertest/assets/89152616/f82f623b-8a41-4e29-9471-ce76e1e0573c)
+![Sample Report](https://github.com/DeanAlief/TugasApiAutomation_DeanAliefgentaRyano/assets/159284546/1274818c-a648-4d54-bd6b-aa5d877145d5)
