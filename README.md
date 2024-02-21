@@ -4,9 +4,18 @@ Tugas API AUTOMATION Menggunakan SUPERTEST
 
 ### How to run this automation
 
-1. install dependencies using
+1. Install dependencies using
    `npm install`
-2. run command for the API Automation
+   
+   Dependencies used listed below :
+   a. Supertest 
+      `npm install supertest --save-dev` 
+   b. Mocha Framework
+      `npm install mocha --save-dev`
+   c. Chai Assertion Library
+      `npm i chai@4.3.10 --save-dev`
+      
+2. Run command for the API Automation
    `npm run mocha`
 
 ### Mochawesome Report
