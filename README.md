@@ -21,7 +21,7 @@ Tugas API AUTOMATION Menggunakan SUPERTEST
 
 ### Mochawesome Report
 
-1. Generated report shall be Stored under folder `report`
+1. Generated report shall be Stored under folder `report` , the folder will be automatically generated too.
 2. Open report that has name `pass_[date]-mochawesome-report.html`
 
 ### Report Screenshot
